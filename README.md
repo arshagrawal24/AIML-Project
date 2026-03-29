@@ -121,9 +121,8 @@ ESTIMATED MARKET VALUE: ₹60,00,000
 
 ##  Author
 
-**Arsh Agrawal**
-*Course: Fundamentals of AIML
-*Institution: VIT Bhopal
-*Submission: BYOP — VITyarthi Platform
-
+- Arsh Agrawal  
+- Course: Fundamentals of AIML  
+- Institution: VIT Bhopal  
+- Submission: BYOP — VITyarthi Platform
 ---
